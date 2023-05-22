@@ -1,11 +1,11 @@
 # Wordle
- Wordle_Kenneth Burwell-Tibbs
+ Wordle_Kamari Johnson
 
 # Android Project 1 - *Wordle*
 
-Submitted by: **Kenneth Burwell-Tibbs**
+Submitted by: **Kamari Johnson**
 
-**Wordle_Burwell-Tibbs** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordle_Johnson** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
 Time spent: **7-8** hours spent in total
 
